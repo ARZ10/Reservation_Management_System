@@ -1,4 +1,4 @@
-<h1>HotelDatabase: Hotel Management System</h1>
+<h1>HotelDatabase: Reservation Management System</h1>
 
 <p>Welcome to the HotelDatabase project, a robust application designed to streamline hotel management operations. This project is my initial venture into using Python's Tkinter library for GUI development, focusing on integrating backend processes with an interactive frontend.</p>
 
